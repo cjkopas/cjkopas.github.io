@@ -17,8 +17,8 @@ Outside of a lab, you’ll find me doing film photography, exploration, mapping,
 
 This site has a combination of my academic and public work, you can find: 
 * A partial [CV](https://www.cameronkopas.com/cv/) (please e-mail me for a full up-to-date version)
-* A list of available [Publications](https://www.cameronkopas.com/publications/)
-  * If you don't have access to any of the papers, get in touch and I can send them to you
+* A list of available [Publications](https://www.cameronkopas.com/publications/) from my graduate school days. Google Scholar is much more complete.
+  * If you don't have access to any of my co-authored papers, get in touch and I can send them to you
 * [Laboratory Resources](https://www.cameronkopas.com/resources/), including instrument interface programs, tutorial videos, and instrument procedures
 * A [Portfolio](https://www.cameronkopas.com/portfolio/) of lab instruments and systems that I have managed. 
 
